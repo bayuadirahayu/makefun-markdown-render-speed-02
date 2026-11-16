@@ -1,3 +1,4 @@
+// Re-recorded resubmission (2026-11-16): parser unchanged from the 720/720 practice build; only this comment added.
 // Fast CommonMark 0.31.2 + GFM renderer, byte-exact with marked 18.1.3
 // (default options: gfm on, breaks off, pedantic off, async off).
 //
